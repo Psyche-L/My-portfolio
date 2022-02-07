@@ -7,7 +7,7 @@
   
   .thumbnail {
     border-radius: 180px;
-    border-color: #ffdd00;
+    border-color: #8c63ce4b;
   }
   
   .lead {
@@ -32,7 +32,7 @@
   
   div img {
     border: 200px;
-    color: aqua;
+    color: rgb(16, 32, 48);
   }
   
   .space-evenly {
@@ -115,13 +115,10 @@
   
   }
   
-  /* add media queries here */
-  
   
   /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
   @media screen and (max-width: 575px) {
     .hover-box {
-      /* this will be applied on any screen smaller than 575px */
       flex-wrap: wrap;
       flex-direction: column;
       flex: 0 100px;
