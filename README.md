@@ -24,4 +24,4 @@ HTML
 CSS 
 Foundation
 
-![ScreeShot](assets/css/img/sceenshot.png "ScreenShot")
+![ScreeShot](assets/css/img/Nprtsh.png "ScreenShot")
